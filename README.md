@@ -15,11 +15,9 @@ This will generate a 16 character xxxx xxxx xxxx xxxx app-password.
 
 ## Create .env file in the root directory and put your own sensitive information.
 ```
-module.exports = {
     PASSWORD=YOUR_APP_PASSWORD
     EMAIL=SENDER_EMAIL
     TOEMAIL=RECEIVER_EMAIL
-}
 ```
 
 
