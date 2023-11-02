@@ -3,3 +3,5 @@
 /env.js
 .env
 vercel.json
+/.serverless
+serverless.yml
